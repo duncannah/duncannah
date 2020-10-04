@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... nothing
-- 🌱 I’m currently learning ... nothing
-- 👯 I’m looking to collaborate on ... no one
-- 🤔 I’m looking for help with ... nothing
-- 💬 Ask me about ... nothing
-- 📫 How to reach me: ... no way
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on ... **my personal projects**
+- 🌱 I’m currently learning ... **anything I'll need :)**
+- 📫 How to reach me: ... **using twitter is the best**
+- 😄 Pronouns: ... **he/him**
